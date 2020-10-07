@@ -1,1 +1,1 @@
-<?php include("ss9_bai1.html");
+<?php include("lab1_ss9.html");

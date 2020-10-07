@@ -1,0 +1,27 @@
+body{
+    max-width:600px;
+    width:600px;
+    font-size: 11px;
+    margin-left: 300px;
+
+}
+img{
+    width: 120px;
+    float: left;
+}
+p{
+    float: right;
+    text-align: right;
+}
+h4{
+    float: left;
+    color: darkmagenta;
+
+}
+h3{
+    color: darkmagenta;
+}
+u{
+    font-size: 18px;
+    color: darkmagenta;
+}

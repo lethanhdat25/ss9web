@@ -1,8 +1,7 @@
 
 #all{
-
     margin-left: 200px;
-    height: 1050px;
+    height: 890px;
     width: 850px;
     background-color: white;
     overflow: hidden;
@@ -17,17 +16,17 @@
 }
 
 #ld{
-    height: 950px;
+    height: 850px;
     width: 200px;
     background-color: #e9e9e9;
-    margin-top: -220px ;
-    margin-left: 50px;
+    margin-top: -170px ;
+    margin-left: 35px;
     padding: 20px;
     float: left;
 }
 #ld img{
     float: none;
-    margin: 60px 35px auto;
+    margin:  13px 35px auto;
     width: 130px;
     height: 130px;
 }

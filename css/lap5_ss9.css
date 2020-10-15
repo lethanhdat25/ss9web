@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+#a1{
+    background-color:#e5e5e5;
+    width: 1064px;
+    height: 684px;
+    float: none;
+    margin: auto;
+    overflow: auto;
+}
+#a2{
+    float: left;
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 714px;
+    height: 684px;
+    background-color: white;
+    padding: 30px;
+
+}
+.f1 input{
+width: 714px;
+height: 40px;
+    background-color: #e0e0e0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 2%;
+}
+.f1 select{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 2%;
+}
+.f1{
+    height: 80px;
+}
+#a3{
+    width: 332px;
+    margin-right: 20px;
+}
+#a4{
+    width: 332px;
+    position: relative;
+    top: -80px;
+    left: 377px;
+}
+select{
+    background-color: #e0e0e0;
+    height: 40px;
+    width: 342px;
+}
+.a5{
+    position: relative;
+    top:-80px;
+}
+#checkbox1 p {
+    height: 30px;
+
+}
+
+#checkbox1{
+    top:-50px;
+    position: relative;
+    width: 332px;
+}
+#checkbox2 p {
+    height: 30px;
+
+}
+
+#checkbox2{
+    left: 350px;
+    top:-215px;
+    position: relative;
+    width: 332px;
+}

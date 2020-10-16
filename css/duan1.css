@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.all{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1170px;
+    float: none;
+    margin: auto;
+    overflow: auto;
+}
+.container-top{
+    width: 1170px;
+    height: 48px;
+    margin-left: 100px;
+    overflow: auto;
+}
+.header .container{
+    margin-top: 50px;
+    border-bottom: 1px solid black;
+    height: 100px;
+}
+.container h1{
+    text-align: center;
+    height: 48px;
+}
+.menu{
+    width: 1200px;
+    margin-left: 30px;
+}
+.nav{
+    margin-top: 20px;
+    height: 50px;
+}
+
+
+
+#img-lg img{
+    width: 23px;
+    height: 23px;
+    margin-top: 8px;
+}
+#img-lg{
+    width: 160px;
+    height: 23px;
+    float: right;
+}
+#img-lg span{
+    top: -5px;
+    position: relative;
+}
+#run{
+    position: fixed;
+    background-color: white;
+}
+.bot{
+    margin-top: 25px;
+    width: 280px;
+    height: 350px;
+    float: left;
+    margin-right: 10px;
+
+}
+.bot img{
+    width: 280px;
+    height:261px ;
+}
+.menu ul{
+    color: black;
+    list-style-type: none;
+    text-align: center;
+}
+.menu ul li{
+    display: inline-table;
+    width: 130px;
+    height: 40px;
+    line-height: 40px;
+    position: relative;
+    width: 130px;
+    list-style-type: none;
+    float: left;
+}
+
+.quanao{
+    display: none;
+    background-color: white;
+    width: 200px;
+}
+.quanao1{
+    width: 200px;
+    display: block;
+    background-color: white;
+}
+.quanao  li{
+    width: 160px;
+    text-align: left;
+    padding-left: 30px;
+}
+.quanao1 li{
+    width: 160px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.menu ul li:hover .quanao{
+    display: block;
+    position: absolute;
+    left: -20px;
+}
+.menu ul li:hover .quanao1{
+    display: block;
+    position: absolute;
+    left: -20px;
+}
+.text{
+    text-align: center;
+}
+.section{
+    overflow: auto;
+    margin-top: 300px;
+}
+.form-section-1{
+    width:  50%;
+    height: 100%;
+    float: left;
+}
+.form-section-2{
+    width:  50%;
+    height: 100%;
+    float: right;
+
+}
+#fr-s2{
+    height: 100%;
+    width: 100%;
+    margin-left: 300px;
+}
+#fr-s2 select{
+    width:  30%;
+    height: 100%;
+}
+#fr-s1{
+    height: 100%;
+}
+#fr-s1 select{
+    width:  30%;
+    height: 100%;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.sub-menu1 li{
+    list-style-type: none;
+    float: left;
+    margin-right: 67px;
+    margin-top: 60px;
+}
+.menu1{
+    overflow: auto;
+}
+.sub-menu1 {
+    padding-left: 95px;
+    height: 110px;
+    border-bottom: 1px solid #f2f2f2;
+    padding-left: 95px;
+}
+#form-bot{
+    height: 48px;
+    width: 575px;
+    float: left;
+    margin-left: 352.500px;
+    margin-top: 30px;
+}
+#form-bot input{
+    height: 100%;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #757575;
+}
+#fr-b1{
+    width: 70%;
+    height: 100%;
+    float: left;
+    padding-right: 5px;
+}
+#fr-b2{
+    width: 30%;
+    height: 100%;
+    float: right;
+    padding-left: 5px;
+}
+#fr-b1 input{
+    background-color: black;
+    padding-left: 10px;
+    font-size: 16px;
+}
+#fr-b2 input{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    color: #757575;
+}
+.info{
+    margin-top: 80px;
+    text-align: center;
+}
+.icon-info img{
+    height: 35px;
+    width: 55px;
+
+}

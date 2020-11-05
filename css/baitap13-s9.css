@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+aside{
+    float: left;
+    padding-right: 15px ;
+    width: 25%;
+}
+article{
+    float: left;
+    padding-left: 15px;
+    width: 75%;
+}
+#all{
+    background-color: #f7f7f7;
+}
+.list li{
+    list-style-type: none;
+    padding-top: 10px;
+}
+.items {
+    width: 30%;
+    display: inline-table;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: white;
+    text-align: center;
+
+}
+.items img{
+    width: 80%;
+    height: 200px;
+}
+.star .star-box{
+    float: left;
+    width: 80px;
+    height: 16px;
+    background-image: url(../img/star-off.png);
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+    margin-right: 20px;
+}
+.star .star-rate{
+    float: left;
+    height: 16px;
+    background-image: url(../img/star-on.png);
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+}

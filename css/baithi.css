@@ -1,0 +1,63 @@
+body{
+    background-color: #0000A4;
+}
+.contentNav li{
+    list-style-type: none;
+    float: left;
+    display: inline-table;
+    font-family: Verdana;
+    color: #CEEAEE;
+    font-size: 16px;
+    width: 140px;
+    height: 50px;
+    line-height: 70px;
+}
+.setting{
+    float: none;
+    margin: auto;
+    text-align: center;
+}
+.imgTop{
+    text-align: center;
+}
+.contentImg1{
+    position: relative;
+    width: 650px;
+    float: none;
+    margin: auto;
+    border: 10px solid white;
+    overflow: hidden;
+
+}
+.textImg1{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 30px;
+    color: white;
+}
+.textImg2{
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    font-size: 16px;
+    color: white;
+}
+.contentImg2{
+    width: 650px;
+    float: none;
+    margin: auto;
+}
+.textandImg{
+    float: left;
+    color: black;
+    background-color: white;
+    text-align: left;
+}
+.contentSection{
+    margin-top: 20px;
+}
+footer img{
+    margin-top: 70px;
+    width: 650px;
+}
